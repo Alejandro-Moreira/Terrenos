@@ -47,7 +47,7 @@ Este proyecto presenta una **escena 3D interactiva** desarrollada en Unity que s
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/TU-USUARIO/Unity-Ciudad-Montana.git
+   git clone https://github.com/Alejandro-Moreira/Terrenos.git
    ```
 
 2. **Abrir en Unity Hub:**
@@ -73,8 +73,7 @@ El script principal (`SetupSceneVisible.cs`) permite personalización desde el I
 
 ## 🎬 Video de Demostración
 
-[Enlace al video de demostración](link-a-tu-video) - *Próximamente*
-
+https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/EdE-DY95A6lKupi3WrxQktYBPjvp52ovPUqu9K7cB-w3zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Bfd1OJ 
 
 ## 🛠️ Tecnologías Utilizadas
 
