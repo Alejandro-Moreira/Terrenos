@@ -73,7 +73,7 @@ El script principal (`SetupSceneVisible.cs`) permite personalización desde el I
 
 ## 🎬 Video de Demostración
 
-https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/EdE-DY95A6lKupi3WrxQktYBPjvp52ovPUqu9K7cB-w3zA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Bfd1OJ 
+https://udlaec-my.sharepoint.com/:v:/g/personal/alejandro_moreira_udla_edu_ec/EfDKZXHn-dhMpvHb9q4xyWgBQRM47vKi7k5NhlE54sp6yw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=YNF4zT
 
 ## 🛠️ Tecnologías Utilizadas
 
